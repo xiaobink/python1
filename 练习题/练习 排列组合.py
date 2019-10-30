@@ -52,6 +52,3 @@ for i in lst:
                 result += '%s%s%s  ' % (i, j, k)
                 count+=1
 print('从1,2,3,4个数中选3个数出来组合一共%s种情况。\n具体组合为：%s'%(count,result))
-
-
-###
